@@ -1,0 +1,26 @@
+{
+  "name": "omnicare-hospitalsystem",
+  "version": "1.0.0",
+  "description": "HospitalSystem",
+  "homepage": "https://github.com/omarafache7-ux/OmniCare-HospitalSystem#readme",
+  "bugs": {
+    "url": "https://github.com/omarafache7-ux/OmniCare-HospitalSystem/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarafache7-ux/OmniCare-HospitalSystem.git"
+  },
+  "license": "ISC",
+  "author": "OmaAfache",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.2.1",
+    "mongoose": "^9.7.4",
+    "validator": "^13.15.35"
+  }
+}
